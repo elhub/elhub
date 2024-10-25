@@ -14,7 +14,7 @@ open channels such as GitHub issues or pull requests**.
 Include as much details as you can in your message, such as:
 
 * The type of the issue
-* Location of any relevant source files ffected
+* Location of any relevant source files affected
 * Any particular configuration that is required to reproduce the issue
 * Step-by-step instructions on how to reproduce the issue
 * Proof-of-concept or exploit code (if possible)
