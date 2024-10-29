@@ -22,7 +22,7 @@ By participating, you are expected to uphold this code.
 ## Issue Tracker
 
 Elhub employees should generally use our internal Jira instance (follow the link in the [README](../README.md));
-everyone else is welcome to [open an issue on GitHub](/issues/).
+everyone else is welcome to [open an issue on GitHub](/../../issues).
 
 When writing issues:
 
