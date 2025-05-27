@@ -28,5 +28,4 @@ information or guidance.
 
 ## Securing an Application
 
-Developers working on an Elhub application MUST adhere to the guidelines of the Elhub Security Playbook. Note that,
-at this time, this is an internal document.
+Developers working on an Elhub application MUST adhere to the guidelines of the internal Elhub Security Playbook.
