@@ -22,7 +22,7 @@ By participating, you are expected to uphold this code.
 ## Issue Tracker
 
 Elhub employees should generally use our internal Jira instance (follow the link in the [README](../README.md));
-everyone else is welcome to [open an issue on GitHub](/../../issues).
+everyone else is welcome to [open an issue on GitHub](/issues/).
 
 When writing issues:
 
@@ -34,7 +34,6 @@ When writing issues:
 
 > Do not, **ever**, report security related issues, vulnerabilities or bugs including sensitive information to the
 > public issue tracker or elsewhere in public. For sensitive bugs, <email:security@elhub.no>.
-
 
 ## I Have a Question
 
@@ -58,7 +57,7 @@ the problem and understanding how to recreate it. Then submit the bug in the [is
 ### Suggesting Enhancements
 
 Before submitting an enhancement, consider whether the idea fits within the scope and aims of the project.
-[Asking a question](#i-have-a-question) can be a good starting point. Then submit the enchancement as a suggestion
+[Asking a question](#i-have-a-question) can be a good starting point. Then submit the enhancement as a suggestion
 through the [issue tracker](#issue-tracker).
 
 ### Your First Code Contribution
