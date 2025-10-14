@@ -3,7 +3,7 @@
 Welcome to Elhub's home on Github. This space is for developers, integrators, and technical partners who work
 with the Norwegian energy data hub — Elhub.
 
-🍃 About Elhub
+## 🍃 About Elhub
 
 Elhub is Norway’s central data hub for the electricity market. We ensure efficient and secure exchange of market
 processes and energy data between grid companies, electricity suppliers, and other market participants. Our goal
@@ -11,7 +11,7 @@ is to make the Norwegian electricity market more transparent and efficient.
 
 For more information about us, visit [elhub.no](https://elhub.no/om-oss).
 
-💬 For Developers, By Developers
+## 💬 For Developers, By Developers
 
 This repository is Elhub’s developer communication hub. It’s where you can:
 
@@ -30,14 +30,14 @@ For other communication not suited for public discourse, follow the contact guid
 [private users](https://elhub.no/om-oss/kontakt-oss/kontaktinformasjon-stromkunder) or
 [market parties](https://elhub.no/om-oss/kontakt-oss/kontaktinformasjon-markedsaktorer).
 
-📚 Useful Links
+## 📚 Useful Links
 
 * [Elhub.no – Official website](https://elhub.no)
 * [Operational Status](https://elhub.no/driftsmeldinger)
 * [Elhub API Portal](https://api.elhub.no)
 * [Elhub Market Documentation](https://dok.elhub.no)
 
-🤝 Get Involved
+## 🤝 Get Involved
 
 * Join the conversation in [GitHub Discussions](https://github.com/elhub/elhub/discussions) (you will need a
 [GitHub account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)).
