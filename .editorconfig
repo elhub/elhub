@@ -1,24 +1,83 @@
 # EditorConfig helps developers define and maintain consistent coding styles between different editors and IDEs
 # editorconfig.org
+
+# This file is the top-most EditorConfig file
 root = true
 
+# All Files
 [*]
 charset = utf-8
 end_of_line = lf
 indent_style = space
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Git
+[.gitmodules]
+indent_style = tab
+
+# Go
+[{go.mod,go.sum,*.go}]
+indent_style = tab
+max_line_length = 160
+
+# Java, Scala, Rust
+[*.{java,scala,rs}]
+max_line_length = 160
+
+# JSON
+[*.json]
+indent_size = 2
+
+# Kotlin
+[*.{kt,kts}]
+max_line_length = 160
+ij_continuation_indent_size = 4
+
+# Makefile
+[{Makefile,**.mk}]
+# Use tabs for indentation (Makefiles require tabs)
+indent_style = tab
+max_line_length = 160
+
+# Markdown
+[*.md]
+max_line_length = 160
+
+# PlantUML
+[*.{puml,plantuml}]
 indent_size = 2
 max_line_length = 160
-trim_trailing_whitespace = true
-insert_final_newline = true
 
-[*.{java,kt,kts,scala,rs,xml,kt.spec,kts.spec}]
-indent_size = 4
+# Python
+[{*.py,*.pyi}]
+max_line_length = 160
 
-[*.{kt,kts}]
-ktlint_code_style = ktlint_official
-ktlint_standard_max-line-length = 160
-ktlint_standard = enabled
+# Rego
+[*.rego]
+indent_size = 2
+max_line_length = 160
 
-[{*.py, *.pyi}]
-indent_size = 4
+# Shell
+[*.sh]
+indent_size = 2
+max_line_length = 160
+
+# SQL
+[*.sql]
+indent_size = 2
+
+# TOML
+[*.toml]
+indent_size = 2
+max_line_length = 160
+
+# YAML
+[*.{yml,yaml}]
+indent_size = 2
+max_line_length = 160
+
+# XML
+[*.xml]
+indent_size = 2
 max_line_length = 160
